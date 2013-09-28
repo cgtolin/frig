@@ -19,14 +19,18 @@ development:
 test:
     adapter: mysql2
     encoding: utf8
-    database: frig
+    database: frigtest
     pool: 5
     username: root
     password: Pl@yful13
     socket: /tmp/mysql.sock
 
-production:
-  adapter: sqlite3
-  database: db/production.sqlite3
+development:
+  adapter: mysql2
+  encoding: utf8
+  database: frigprime
   pool: 5
-  timeout: 5000
+  username: root
+  password: Pl@yful13
+  socket: /tmp/mysql.sock
+
