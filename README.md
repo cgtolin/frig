@@ -1,27 +1,15 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a test application for the
+[*Frig Project*](http://christolin.com/)
+by [Chris Tolin](http://christolin.com/).
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.0
 
-* System dependencies
+* Rails 4.0
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 
 
 Please feel free to use a different markup language if you do not plan to run
